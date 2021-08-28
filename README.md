@@ -25,9 +25,9 @@ If the devlopers of the site have any problem with this code you can email me an
 
 My Mail : Achubiju2021@outlook.com
 
-# All Code Crdites to University of California
+# All Code Crdites to Team Of 9Anime
 
-# Copyrhit @ 2021 Achubiju And University of California
+# Copyrhit @ 2021 Achubiju And Team Of 9Anime
 
 # Star Repo🌟 Enjoy & Share !!😇❤️
 
