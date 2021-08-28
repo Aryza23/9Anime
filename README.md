@@ -1,6 +1,6 @@
 # 9Anime
 
-The Sraped Sorce code of One of the leading Anime Steraming Site
+The Scraped Source code of One of the leading Anime Steraming Site
 
 ### Installation options
 
